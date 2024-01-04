@@ -26,7 +26,7 @@
 Clone the repository and run the script. Make sure you have the required libraries installed.
 
 ```bash
-git clone https://github.com/yourusername/RoboSpeaker.git
+git clone https://github.com/sanz2105/SpeakRobo-Project.git
 cd RoboSpeaker
 python RoboSpeaker.py
 ```
@@ -38,6 +38,3 @@ Feel free to explore and modify the code based on your preferences or contribute
 - [Sanya Gupta]
 - [guptasanya069@gmail.com ]
 
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
