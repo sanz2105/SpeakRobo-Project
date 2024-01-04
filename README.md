@@ -41,7 +41,3 @@ Feel free to explore and modify the code based on your preferences or contribute
 ## License:
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Make sure to replace placeholders like `[Your Name]` and `[Your Email]` with your actual information. If you don't have a specific license, you can modify the license section accordingly.
